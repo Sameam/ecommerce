@@ -1,5 +1,5 @@
 # Ecommerce Project 
-![image info](./compressed\images/screenshot.png)
+![image info](./images/screenshot.png)
 ### Requirements:
 * Python3 
 * Node.JS
