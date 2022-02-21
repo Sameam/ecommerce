@@ -9,6 +9,7 @@ django-cors-headers = "*"
 djangorestframework = "*"
 pillow = "*"
 braintree = "*"
+python-decouple = "*"
 
 [dev-packages]
 
